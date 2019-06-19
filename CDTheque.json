@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "name": "Aude Velly Menut",
+            "birthday": "1981-03-30",
+            "country": "Française",
+            "style": "Variété",
+            "albums": [
+                {
+                    "title": "L'amour est enfant de bohème",
+                    "date": "2019-05-09"
+                },
+                {
+                    "title": "Youhou !",
+                    "date": "2015-04-20"
+                }
+            ]
+        },
+        {
+            "name": "Sébastien Velly",
+            "birthday": "1974-08-20",
+            "country": "Française",
+            "style": "Rock",
+            "albums": [
+                {
+                    "title": "Pas très loin d'ici",
+                    "date": null
+                },
+                {
+                    "title": "L'ordre des choses",
+                    "date": "2018-06-10"
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Poirel",
+            "birthday": "1999-04-19",
+            "country": "Française",
+            "style": "Rock",
+            "albums": [
+                {
+                    "title": "Yo trop cool",
+                    "date": "2016-06-19"
+                },
+                {
+                    "title": "J'suis débile",
+                    "date": "2019-06-04"
+                }
+            ]
+        }
+    ]
+}
